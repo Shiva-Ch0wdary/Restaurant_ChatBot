@@ -1,0 +1,161 @@
+0,hi,greet
+1,hello,greet
+2,how are you,greet
+3,hey,greet
+4,hey good morning,greet
+5,namaste,greet
+6,good night,greet
+7,I want to order a pizza,order
+8,I just want to order biryani,order
+9,what is the price of pizza,price
+10,I want to order a samosa,order
+11,Give the menu,menu
+12,Cancel the order,end
+,Do you serve Mutton Rogan Josh Recipe?,mean
+, I want to order  Mutton Curry | Mutton Masala Gravy,order
+,what is the price  of Mutton Curry ,price
+,  I just want to order Prawn curry ,order
+,Do you serve Chicken Shawarma recipe ,mean
+,what are the all chicken curry you have ?,mean
+,I need to order   Butter Chicken ,order
+,what are the all  Mutto curry you have ?,Mean 
+,Do you provide    Chicken Biryani Recipe,Mean
+,What are the all fish Curry you have,Mean
+,what is the price of Andhra chicken fry ,price
+,can I have the menu for the  prawn Curry,Mean
+,can you provide Chicken cutlet ,mean
+,can I have the price for all prawn curry,price
+,Do you serve Chettinad biryani recipe,mean 
+,what is the price of  Tandoori Chicken,price 
+, I just want to order of  Shrimp Pakora ,order
+,do you provide Reshmi Kabab ,mean
+, what is price Reshmi Kabab ,price
+,I  just to order Chicken Burger,order
+,Do you serve Chicken Burger ,mean
+,Do you serve Ambur Star Biryani,mean
+,Do you provide   Amritsari fish recipe ,mean
+,what is the  price of  Amritsari fish recipe ,price
+,Do you serve Andhra chicken curry recipe,mean
+,Do you have  Thalassery biryani ,mean
+,Do you serve Andhra chilli chicken ,mean
+,what is the price of Andhra chilli chicken ,price
+,Do you serve Apollo Fish Fry,mean
+,what is the price of Apollo fish fry,price
+,Do you serve  Awadhi chicken biryani ,mean
+, Baked fish is available ,mean
+, what the price of Chicken Butter Masala,price
+,Do you servw Chicken Butter Masala,mean
+,What about chicken chettinad gravy,mean 
+, just order chicken  chettinad gravy,order
+,Does  you  provid  Chicken Curry ,mean 
+,can you make an order of chicken curry ,order
+,Do you serve Chicken Dum Biryani,mean 
+,does you provid  Chicken fried rice ,mean 
+,what is the price of  Chicken fried rice ,price
+,Do you serve Chicken fry biryani,mean 
+,just order   Chicken fry biryani,order
+,does you provid  Chicken keema ,mean 
+,Do you serve Chicken Kurma,mean 
+,what is the price of chicken kurma,price 
+,Does you provid   Chicken Lollipop Recipe,mean 
+,Do you serve Chicken majestic ,mean
+,I ll have Chicken manchurian ,order
+,add  one pack of   Chicken Masala ,order
+,add one pack of  Chicken nuggets ,order
+, u have  Chicken pakora ,mean
+,can I have Chicken pasta,mean
+,can I have  Chicken Pulao ,mean
+,what is the price of  Dry Chicken Ghee Roast,price
+,Do you serve Shami Kabab ,mean
+,can I have  Chicken Tikka Masala,mean
+,just order of Chicken Tikka Kebab Recipe,order
+,what is the price of  Chilli Chicken Recipe,price
+,I ll have  Chilli fish recipe ,order
+, is  Chilli prawns recipe is  available,mean
+,Does  you serve Egg bhurji recipe,mean
+,add   1  pack of Hyderabadi egg dum biryani ,order
+,what is the price of Egg Butter Masala ,price
+,just order me South Indian egg curry recipe,order
+,Do you serve Egg fried rice,mean
+,Does you provid  Boiled Egg Fry,mean
+,Do you serve Egg Kurma Recipe ,mean
+,Does you provid Egg masala ,mean
+,what is the price is  Egg Fried Noodles,price
+,just order  Egg Pulao,order
+,can you order one  pack of Egg Roast (Roasted Eggs),order
+,Do you serve Fish biryani recipe,mean
+,can you provid Fish pulusu recipe ,mean
+,does you provid  Andhra fish fry recipe,mean
+,can you order  Fish Rice Recipe,order
+,Do you serve Fish tikka masala ,mean
+,Do you serve Tandoori Fish Tikka,mean
+,just order  Garlic chicken recipe,order
+,can you just order Gongura chicken recipe,order
+,Does you provid Grilled Chicken Sandwich,mean
+,just order  Hyderabadi Chicken Biryani,order
+,  can you order Keema recipe ,order
+,Do you serve Kadai chicken recipe,mean
+,does you provid  Kerala Chicken Curry,mean
+,what is the price KFC fried chicken recipe,price
+,can you just order  Chicken Kolhapuri,order
+,Do you serve Lemon chicken recipe ,mean
+,,
+,Nice to see you here!,greet
+,what all ice creams do you have ?,menu
+,can I have the menu for the desserts?,menu
+,I want one scoop of chocolate icecream,order
+,what is the cost of butterscotch icecream,price
+,do you have strawberry icecream,menu
+,do you have chocolate icecream,menu
+,do you have vanilla icecream,menu
+,do you have butterscorch icecream,menu
+,what is the price of the icecreams,price
+,do you have milkshakes,menu
+,are soft drinks available ,menu
+,what is the price of  the softdrinks,price
+,do you have pepsi ,menu
+,are cooldrinks 1 liter or any other variant available ,menu
+,I want to order 10 pieces of gulabjamuns,order
+,what is the pricing of the roshagulla,price
+,add 5 pieces of ras malai in my order,order
+,I want to order 1kg of jalebis ,order
+,"Can I have fries, please",order
+,can I see a dessert menu?,menu
+,can I have some coffee?,order
+,do you have salads?,menu
+, Ill have a fruit salad small?,order
+,what is the price of the slice of plum cake,price
+,I want to have chocolate pastry,order
+,do you have something to drink?,menu
+,ill have a coke,order
+,do you have pepporoni pizza,menu
+,ill have a medium 12 inch chicken pizza,order
+,"Could I have a menu, please",menu
+,Enjoy your meal!,greet
+,Do you have any vegetarian dishes?,menu
+,"I'd like a bowl of chicken soup, please.",order
+,do you have chicken  soup,menu
+,ill have a green veggie salad no sause,order
+,do you have grilled chicken burger,menu
+,what is the price of the spagetti,price
+,what is the price of the black coffee,price
+,ill have green tea,order
+,ill go with a hamburger for now,order
+,can I order a chicken biriyani,order
+,can I have the menu for non vegetarian main course,menu
+,can I have the menu for vegetarian main course,menu
+,what are the  veg starters with paneer ,menu
+,do you serve idly,menu
+,ill order a plate of puri ,order
+,what is the price for masala dosa,price
+,do you serve sweets ?,menu
+,is dal tadka available now ,menu
+,can you add sachets of sauce to my order ,order
+,do you have chinese cuisine,menu
+,ill have one chinese chicken noodles,order
+,add 1 chicken soup in my order,order
+,do you serve coffee,menu
+,ill have a coffee,order
+,do you have chocolate pastry ,menu
+,ill have chicken shawarma,order
+,what is the price of the espresso shot,price
